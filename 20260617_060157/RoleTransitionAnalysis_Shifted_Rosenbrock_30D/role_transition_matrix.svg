@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="465" viewBox="0 0 520 465">
+<rect width="100%" height="100%" fill="white"/>
+<text x="260.0" y="28" text-anchor="middle" font-family="Segoe UI, Arial" font-size="20" font-weight="700">Role Transition Matrix</text>
+<text x="260.0" y="50" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" fill="#555">Compressed role-change probability: P(next role | current role)</text>
+<text x="182.0" y="83" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#333">Global Explorer</text>
+<text x="246.0" y="83" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#333">Local Explorer</text>
+<text x="310.0" y="83" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#333">Exploiter</text>
+<text x="374.0" y="83" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#333">Refiner</text>
+<text x="438.0" y="83" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#333">Polisher</text>
+<text x="142" y="131.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#333">Global Explorer</text>
+<rect x="150" y="95" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="182.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="214" y="95" width="64" height="64" fill="#7bbc7e" stroke="#eee"/>
+<text x="246.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">70%</text>
+<rect x="278" y="95" width="64" height="64" fill="#cee6cf" stroke="#eee"/>
+<text x="310.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">26%</text>
+<rect x="342" y="95" width="64" height="64" fill="#f7fbf7" stroke="#eee"/>
+<text x="374.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">4%</text>
+<rect x="406" y="95" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="438.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<text x="142" y="195.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#333">Local Explorer</text>
+<rect x="150" y="159" width="64" height="64" fill="#ebf5ec" stroke="#eee"/>
+<text x="182.0" y="195.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">10%</text>
+<rect x="214" y="159" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="246.0" y="195.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="278" y="159" width="64" height="64" fill="#65b169" stroke="#eee"/>
+<text x="310.0" y="195.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">81%</text>
+<rect x="342" y="159" width="64" height="64" fill="#eff6ef" stroke="#eee"/>
+<text x="374.0" y="195.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">8%</text>
+<rect x="406" y="159" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="438.0" y="195.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<text x="142" y="259.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#333">Exploiter</text>
+<rect x="150" y="223" width="64" height="64" fill="#fefefe" stroke="#eee"/>
+<text x="182.0" y="259.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="214" y="223" width="64" height="64" fill="#f0f7f1" stroke="#eee"/>
+<text x="246.0" y="259.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">7%</text>
+<rect x="278" y="223" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="310.0" y="259.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="342" y="223" width="64" height="64" fill="#6ab36d" stroke="#eee"/>
+<text x="374.0" y="259.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">79%</text>
+<rect x="406" y="223" width="64" height="64" fill="#e6f2e6" stroke="#eee"/>
+<text x="438.0" y="259.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">13%</text>
+<text x="142" y="323.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#333">Refiner</text>
+<rect x="150" y="287" width="64" height="64" fill="#fefefe" stroke="#eee"/>
+<text x="182.0" y="323.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="214" y="287" width="64" height="64" fill="#fdfefd" stroke="#eee"/>
+<text x="246.0" y="323.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">1%</text>
+<rect x="278" y="287" width="64" height="64" fill="#8bc48e" stroke="#eee"/>
+<text x="310.0" y="323.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">61%</text>
+<rect x="342" y="287" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="374.0" y="323.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="406" y="287" width="64" height="64" fill="#b7dbb9" stroke="#eee"/>
+<text x="438.0" y="323.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">38%</text>
+<text x="142" y="387.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#333">Polisher</text>
+<rect x="150" y="351" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="182.0" y="387.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="214" y="351" width="64" height="64" fill="#fefefe" stroke="#eee"/>
+<text x="246.0" y="387.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+<rect x="278" y="351" width="64" height="64" fill="#dfefe0" stroke="#eee"/>
+<text x="310.0" y="387.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">17%</text>
+<rect x="342" y="351" width="64" height="64" fill="#62af65" stroke="#eee"/>
+<text x="374.0" y="387.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">83%</text>
+<rect x="406" y="351" width="64" height="64" fill="#ffffff" stroke="#eee"/>
+<text x="438.0" y="387.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#111">0%</text>
+</svg>

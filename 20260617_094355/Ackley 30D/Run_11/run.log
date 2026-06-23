@@ -1,0 +1,7 @@
+=== Batch Run 11 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Ackley 30D
+Time: 10000ms
+Started: 10:12:01
+--- [Ackley 30D] Run 11 of 30 ---
+[Ackley 30D Run 11] Complete. Best=6.932928E-004, Solutions=296

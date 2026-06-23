@@ -1,0 +1,21 @@
+TimeMs,BestQuality,Source,Role,DeltaPct
+18,81729513131.52953,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+30,833.97262283744,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.99999897959428
+30,0.49912342477263427,HOG8-ML06-H1-GPS-Spray-Specialist-Global Explorer,Global Explorer,99.94015110195411
+46,0.44260698106676255,HOG8-ML06-H2-GPS-Spray-Specialist-Local Explorer,Local Explorer,11.323139909054891
+61,0.34561649969156527,HOG8-ML06-H1-GPS-Spray-Specialist-Local Explorer,Local Explorer,21.913454944030196
+76,0.31816590367530184,HOG8-ML06-H1-GPS-Spray-Specialist-Local Explorer,Local Explorer,7.942501599536151
+90,0.2769432511349422,HOG8-ML06-H2-GPS-Spray-Specialist-Local Explorer,Local Explorer,12.956338835863635
+106,0.2658452385894775,HOG8-ML06-H1-GPS-Spray-Specialist-Exploiter,Exploiter,4.007323702593911
+121,0.2447706575253517,HOG8-ML06-H1-GPS-Spray-Specialist-Local Explorer,Local Explorer,7.927387067732856
+135,0.2317183173555644,HOG8-ML06-H2-GPS-Spray-Specialist-Local Explorer,Local Explorer,5.3324774716656735
+151,0.2223328201940792,HOG8-ML06-H2-GPS-Spray-Specialist-Exploiter,Exploiter,4.050390693577941
+165,0.21527308842405787,HOG8-ML06-H2-GPS-Spray-Specialist-Exploiter,Exploiter,3.1752989791874824
+180,0.20351029451259509,HOG8-ML06-H1-GPS-Spray-Specialist-Local Explorer,Local Explorer,5.464126518355945
+195,0.20316646834491542,HOG8-ML06-H1-GPS-Spray-Specialist-Refiner,Refiner,0.16894780114348865
+211,0.19903775663128712,HOG8-ML06-H1-GPS-Spray-Specialist-Exploiter,Exploiter,2.0321816622903515
+240,8.288665336059225E-05,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.95835631652835
+240,1.0138595166772032E-05,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,87.76812097520114
+256,2.3290232182664604E-09,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.97702814660259
+300,0,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+10000,0,Final,Final,0

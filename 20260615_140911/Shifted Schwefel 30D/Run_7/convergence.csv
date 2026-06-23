@@ -1,0 +1,242 @@
+TimeMs,BestQuality,Source,Role,DeltaPct
+4,9409.823881955306,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6,8179.1280684826,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,13.078840039001612
+6,7587.195489885423,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.237111017715031
+21,4580.184000316644,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,39.6327140058202
+21,3820.1278403177203,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,16.594445986152056
+21,3113.56975854958,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,18.495665886128453
+30,3113.3660140703178,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,0.006543758292319518
+58,3113.366014070316,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,5.842517054934271E-14
+81,3113.3660135122846,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,1.7923732246297917E-08
+90,3113.3660132365567,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,8.856262628968394E-09
+104,3113.366013235691,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,2.781038118893477E-11
+145,3113.3660132356545,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Polisher,Polisher,1.1685034113001051E-12
+190,3041.782409908861,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.2992350729877082
+200,2531.0247200843824,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,16.791394682296893
+245,2517.4311066489026,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,0.5370794416826759
+264,2469.6811590194266,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,1.8967727658310691
+276,2417.196121287163,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,2.1251746421024875
+305,2201.8936866380536,HOG8-ML05-H1-GPS-JADE-Specialist-Local Explorer,Local Explorer,8.907114849020202
+329,2153.1644067080742,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,2.2130623392803925
+339,2133.233521159893,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,0.9256555368502127
+369,2040.8116778238436,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,4.332476609771123
+442,1936.258437554854,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,5.123120442963984
+451,1921.9477183201834,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,0.7390913814553846
+491,1898.765419020683,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,1.2061878207468644
+505,1891.6338820158908,HOG8-ML03-H2-GPS-JADE-Specialist-Refiner,Refiner,0.3755881023191655
+520,1841.8440929309727,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,2.6321049521410416
+550,1819.1198191634485,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,1.233778355873895
+572,1751.7419673069526,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,3.7038710230467773
+606,1728.3089328096976,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,1.3376989839022846
+626,1667.6850016233584,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,3.5077022420860464
+637,1647.3425206122592,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,1.219803559502986
+656,1417.9071188751368,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,13.927607578043293
+667,1258.7481839301763,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,11.224919659845243
+675,1099.2309049010946,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,12.672691890686394
+687,1095.9843840806188,HOG8-ML03-H2-GPS-JADE-Specialist-Refiner,Refiner,0.2953447547736016
+726,832.4062061585464,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,24.04944648396414
+734,812.2694292608667,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,2.4191046088674084
+745,708.5155779766937,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,12.773329580873781
+757,587.5478952665926,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,17.073397744556058
+770,270.4421603133833,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,53.97104431959994
+779,119.86888380668279,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,55.67670230566824
+790,118.33041466665054,HOG8-ML03-H2-GPS-JADE-Specialist-Exploiter,Exploiter,1.283459969906283
+803,-73.93766497483193,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,162.4840749380641
+811,-301.8223316460917,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+822,-364.0876874385449,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+831,-392.82402562835523,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+840,-408.72982281699115,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+877,-435.6667153916969,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+886,-722.0789236901219,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+896,-1074.1249188240254,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+905,-1074.7642303756074,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+915,-1128.4768674535262,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+926,-1129.5631395517048,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+935,-1140.563589070387,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+946,-1141.3596647721915,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+959,-1142.6743100479944,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+970,-1148.8436632054836,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+981,-1154.109234564392,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+989,-1157.6646469883635,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1001,-1160.0540227908314,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1021,-1163.101842938784,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1031,-1168.7520390454665,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1041,-1276.1349711995845,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1056,-1313.251439603342,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1062,-1386.07718377096,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1076,-1392.8602126573278,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1087,-1393.1442817445877,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1096,-1515.3913378347224,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1105,-1516.7733857698822,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1116,-1517.3381658010112,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1124,-1517.7239621098543,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1137,-1518.5943291648018,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1145,-1519.1206746907828,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1156,-1519.2569767851346,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1169,-1519.2799852960252,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1191,-1519.3242945946113,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1200,-1519.712592129701,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1212,-1638.403383531835,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1221,-1639.5517458653612,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1232,-1640.0020729388325,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1266,-1640.0047356596933,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1275,-1640.415991498021,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1321,-1640.417832913894,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1330,-1640.4518957162782,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1365,-1640.492804747495,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1375,-1640.501668966097,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1385,-1640.6597449615329,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1406,-1641.323838547447,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1418,-1641.6823163394984,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1426,-1641.726621969854,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1436,-1641.7397972598483,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1451,-1641.7407638422374,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1461,-1641.7537084547403,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1483,-1641.9642004369834,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1511,-1641.9645046204714,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1522,-1641.9996283437576,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1575,-1642.0123646943703,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1596,-1642.0168946160957,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1611,-1642.0275840714185,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1620,-1642.0527858934583,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1641,-1642.198636400104,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1650,-1642.2123715267408,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1680,-1642.212835674005,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1730,-1642.2302999841559,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1741,-1642.2303069414502,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1750,-1642.2848901839425,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1786,-1642.2851363832197,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1806,-1642.2980748314185,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1826,-1642.2985557984994,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1871,-1642.2987496843816,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1891,-1642.299471596938,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+1910,-1642.301263497613,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2082,-1642.3195308228605,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2091,-1642.3498414934475,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2097,-1642.3528673380151,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2130,-1642.382534223887,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2150,-1642.3863909551128,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2200,-1642.4169744975625,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2329,-1642.43773863376,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2349,-1642.4448988125187,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2435,-1642.4537822853654,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2570,-1642.4538681324939,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2631,-1642.4543147571494,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2678,-1642.489871867845,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+2930,-1642.5030147848738,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+3015,-1642.5306795579727,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3029,-1642.5865404181059,HOG8-ML04-H2-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+3519,-1642.7073344483288,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3521,-1642.7271845912292,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3530,-1642.7272658397978,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3550,-1642.7274096967212,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3567,-1642.7275081640164,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3575,-1642.727610728698,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3585,-1642.7277129065624,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3596,-1642.7277926020306,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3611,-1642.7278940903652,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3620,-1642.727990804211,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3633,-1642.7280740450024,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3644,-1642.7281526612005,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3655,-1642.7282310404898,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3667,-1642.7283308527058,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3680,-1642.7284259757616,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3692,-1642.7285250572568,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3700,-1642.7286237652825,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3716,-1642.728722099846,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3731,-1642.7288158095434,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3741,-1642.72891341371,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3755,-1642.7290106535766,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3764,-1642.7291075333287,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3779,-1642.729199863954,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3786,-1642.7292751621226,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3801,-1642.7293710554804,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3815,-1642.7294665887293,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3825,-1642.7295617618674,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3837,-1642.729652460077,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3851,-1642.7297469293753,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3860,-1642.729820623019,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3869,-1642.7299144899225,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3881,-1642.7300080233854,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3895,-1642.7300971781642,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3911,-1642.730190059243,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3921,-1642.7302826068753,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3929,-1642.7303548028704,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3941,-1642.7304267946383,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3955,-1642.7305184869256,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3965,-1642.7306098457648,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3974,-1642.7306969204747,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3989,-1642.7307876269297,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+3996,-1642.730858382005,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4005,-1642.7308936829559,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4014,-1642.780833132434,HOG8-ML04-H2-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+4019,-1642.8235279193923,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4030,-1642.8521941117851,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4036,-1642.8559229373477,HOG8-ML06-H1-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+4055,-1642.8611624137648,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+4514,-1642.9838483955991,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4529,-1642.986590618746,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4540,-1642.9867000307568,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+4545,-1643.0055414395993,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+4574,-1643.102522901534,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+5024,-1643.1305835493986,HOG8-ML04-H2-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+5031,-1643.1377469082163,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+5035,-1643.2404977456317,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+5520,-1643.2510968800143,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+5530,-1643.2638859806193,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+5545,-1643.2640276850561,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+5555,-1643.2641323665193,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+5560,-1643.2671870398226,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+5566,-1643.334389502701,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+6020,-1643.4062869234094,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6031,-1643.4173270979136,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6035,-1643.4174247375668,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6035,-1643.4440375098293,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6043,-1643.4522167622217,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+6054,-1643.4787932308973,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+6065,-1643.5394679260535,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+6520,-1643.5511785014278,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6520,-1643.5564363370358,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6530,-1643.5592658108526,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+6534,-1643.5633383899003,HOG8-ML04-H2-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+6554,-1643.5657249800042,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+6564,-1643.671633513526,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+7021,-1643.7730448146685,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+7031,-1643.7924040326598,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+7031,-1643.7966447286126,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7043,-1643.8039241348815,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7043,-1643.8401144280178,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+7521,-1643.9075223250366,HOG8-ML03-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7521,-1643.9420411659103,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+7530,-1643.9445175878827,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+7530,-1643.9561791297438,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7550,-1643.9603929246005,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7566,-1643.986389192245,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+7665,-1643.9873939704758,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7674,-1643.9904830281375,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+7900,-1643.9907820396165,HOG8-ML05-H2-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+8021,-1644.0719192810775,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8030,-1644.0720437559557,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8030,-1644.0938244016706,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8030,-1644.1240179910656,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8041,-1644.1241227089504,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8054,-1644.124256170373,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8065,-1644.1304647225243,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+8079,-1644.1642786343982,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+8531,-1644.2331864406733,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8535,-1644.2332769082077,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+8539,-1644.2360969879755,HOG8-ML04-H2-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+8544,-1644.3075977804328,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+8565,-1644.3330056000977,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+8580,-1644.3404005868706,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+9026,-1644.346740783014,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9030,-1644.3932714688672,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9037,-1644.4676151621206,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9056,-1644.5368244374276,HOG8-ML06-H1-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+9060,-1644.5651521941181,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+9525,-1644.6261510935692,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9536,-1644.652980185705,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9536,-1644.67923239415,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9546,-1644.686650977248,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+9557,-1644.7749338011,HOG8-ML06-H1-GPS-Spray-Specialist-Global Explorer,Global Explorer,100
+10000,-1644.7749338011,Final,Final,0

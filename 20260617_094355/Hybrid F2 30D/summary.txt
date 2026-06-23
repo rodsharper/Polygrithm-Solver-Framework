@@ -1,0 +1,68 @@
+=== Batch Run Summary ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Hybrid F2 30D
+Time: 10000ms
+Runs: 30
+
+--- Basic Stats ---
+Best:     6.800024E-003
+Worst:    1.152352E+001
+Mean:     4.413267E+000
+StdDev:   4.176157E+000
+
+--- Distribution ---
+Q1:       5.315612E-001
+Median:   3.280543E+000
+Q3:       8.720721E+000
+IQR:      8.189159E+000
+Min:      6.800024E-003
+Max:      1.152352E+001
+Range:    1.151672E+001
+
+--- Outliers (IQR rule) ---
+Fences:   [-1.175218E+001, 2.100446E+001]
+Count:    0
+
+--- Confidence ---
+CI Lower: 2.827384E+000
+CI Upper: 5.999150E+000
+Margin:   1.585883E+000
+t-value:  2.0450
+
+--- Robustness ---
+SuccessRate:   0.0%
+Improvement%:  99.94%
+
+--- Sorted Run Results (ascending) ---
+  Run 1: 6.800024E-003
+  Run 2: 7.975275E-003
+  Run 3: 7.507058E-002
+  Run 4: 9.331978E-002
+  Run 5: 1.724849E-001
+  Run 6: 3.924074E-001
+  Run 7: 4.473352E-001
+  Run 8: 5.156743E-001
+  Run 9: 5.792221E-001
+  Run 10: 6.149010E-001
+  Run 11: 1.193549E+000
+  Run 12: 1.319800E+000
+  Run 13: 1.674956E+000
+  Run 14: 2.019717E+000
+  Run 15: 3.027253E+000
+  Run 16: 3.533834E+000
+  Run 17: 4.496342E+000
+  Run 18: 4.662687E+000
+  Run 19: 4.824759E+000
+  Run 20: 5.362169E+000
+  Run 21: 5.392243E+000
+  Run 22: 8.223177E+000
+  Run 23: 8.886568E+000
+  Run 24: 9.361442E+000
+  Run 25: 1.010123E+001
+  Run 26: 1.052852E+001
+  Run 27: 1.055589E+001
+  Run 28: 1.138194E+001
+  Run 29: 1.142322E+001
+  Run 30: 1.152352E+001
+
+Generated: 2026-06-17 10:15:37

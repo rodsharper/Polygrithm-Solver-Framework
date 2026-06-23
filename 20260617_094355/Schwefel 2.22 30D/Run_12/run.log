@@ -1,0 +1,7 @@
+=== Batch Run 12 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Schwefel 2.22 30D
+Time: 10000ms
+Started: 10:01:40
+--- [Schwefel 2.22 30D] Run 12 of 30 ---
+[Schwefel 2.22 30D Run 12] Complete. Best=6.978558E-011, Solutions=328

@@ -1,0 +1,15 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Ackley 30D
+Time: 10000ms
+Started: 10:15:26
+--- [Ackley 30D] Run 30 of 30 ---
+[Ackley 30D Run 30] Complete. Best=8.349742E-004, Solutions=312
+All 6 problem(s) x 30 run(s) completed at 10:15:37. Overall Best=1.361212E-012, Total Solutions=49119
+[Shifted Rastrigin 30D] Stats: Best=2.860819E-004 Mean=1.166406E-003 StdDev=7.675850E-004 Median=9.712129E-004 Q1=7.807089E-004 Q3=1.278606E-003 IQR=4.978968E-004 Outliers=2 (n=30)
+[Shifted Rosenbrock 30D] Stats: Best=8.881908E-009 Mean=1.362309E-001 StdDev=7.115076E-001 Median=4.554545E-003 Q1=3.636616E-003 Q3=6.207030E-003 IQR=2.570414E-003 Outliers=1 (n=30)
+[Hybrid F2 30D] Stats: Best=6.800024E-003 Mean=4.413267E+000 StdDev=4.176157E+000 Median=3.280543E+000 Q1=5.315612E-001 Q3=8.720721E+000 IQR=8.189159E+000 Outliers=0 (n=30)
+[Schwefel 2.22 30D] Stats: Best=1.361212E-012 Mean=7.839299E-003 StdDev=4.234306E-003 Median=8.707103E-003 Q1=7.799638E-003 Q3=1.024164E-002 IQR=2.442007E-003 Outliers=6 (n=30)
+[Rosenbrock 30D] Stats: Best=2.912478E-008 Mean=4.410024E-003 StdDev=2.129720E-003 Median=4.763420E-003 Q1=4.069750E-003 Q3=6.206846E-003 IQR=2.137096E-003 Outliers=5 (n=30)
+[Ackley 30D] Stats: Best=5.447603E-004 Mean=7.411437E-004 StdDev=9.961859E-005 Median=7.414623E-004 Q1=6.722895E-004 Q3=8.263381E-004 IQR=1.540486E-004 Outliers=0 (n=30)
+Consolidated batch summary written to: C:\Users\r_sha\source\Workspaces\PolygrithmSolverFramework\General Problem Solver\logs\BatchRuns\20260617_094355\batch_summary.md

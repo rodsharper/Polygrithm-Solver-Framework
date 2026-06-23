@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="267" viewBox="0 0 1080 267">
+<rect width="100%" height="100%" fill="white"/>
+<text x="540.0" y="28" text-anchor="middle" font-family="Segoe UI, Arial" font-size="20" font-weight="700">Base Solver / Source Contribution</text>
+<text x="540.0" y="50" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" fill="#555">Color = share of positive DeltaPct contribution within each active-time bin</text>
+<text x="211.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">0-5%</text>
+<text x="295.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">10-15%</text>
+<text x="379.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">20-25%</text>
+<text x="463.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">30-35%</text>
+<text x="547.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">40-45%</text>
+<text x="631.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">50-55%</text>
+<text x="715.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">60-65%</text>
+<text x="799.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">70-75%</text>
+<text x="883.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">80-85%</text>
+<text x="967.0" y="77" text-anchor="middle" font-family="Segoe UI, Arial" font-size="9" fill="#666">90-95%</text>
+<text x="182" y="103.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="12" fill="#333">GradientEstimation-Escape</text>
+<rect x="190" y="85" width="42" height="28" fill="#fdd39e" stroke="#eee"/>
+<text x="211.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">38%</text>
+<rect x="232" y="85" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="274" y="85" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="316" y="85" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="358" y="85" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="400" y="85" width="42" height="28" fill="#fdd8a9" stroke="#eee"/>
+<text x="421.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">34%</text>
+<rect x="442" y="85" width="42" height="28" fill="#fb900a" stroke="#eee"/>
+<text x="463.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">96%</text>
+<rect x="484" y="85" width="42" height="28" fill="#fb8f07" stroke="#eee"/>
+<text x="505.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">97%</text>
+<rect x="526" y="85" width="42" height="28" fill="#fb910b" stroke="#eee"/>
+<text x="547.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">95%</text>
+<rect x="568" y="85" width="42" height="28" fill="#fb9413" stroke="#eee"/>
+<text x="589.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">92%</text>
+<rect x="610" y="85" width="42" height="28" fill="#fb9d26" stroke="#eee"/>
+<text x="631.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">85%</text>
+<rect x="652" y="85" width="42" height="28" fill="#fba130" stroke="#eee"/>
+<text x="673.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">81%</text>
+<rect x="694" y="85" width="42" height="28" fill="#fcae4c" stroke="#eee"/>
+<text x="715.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">70%</text>
+<rect x="736" y="85" width="42" height="28" fill="#fb920d" stroke="#eee"/>
+<text x="757.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">95%</text>
+<rect x="778" y="85" width="42" height="28" fill="#fb9719" stroke="#eee"/>
+<text x="799.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">90%</text>
+<rect x="820" y="85" width="42" height="28" fill="#fb991d" stroke="#eee"/>
+<text x="841.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">89%</text>
+<rect x="862" y="85" width="42" height="28" fill="#fb9719" stroke="#eee"/>
+<text x="883.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">90%</text>
+<rect x="904" y="85" width="42" height="28" fill="#fb9413" stroke="#eee"/>
+<text x="925.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">92%</text>
+<rect x="946" y="85" width="42" height="28" fill="#fb9413" stroke="#eee"/>
+<text x="967.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">92%</text>
+<rect x="988" y="85" width="42" height="28" fill="#fddeb7" stroke="#eee"/>
+<text x="1009.0" y="103.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">28%</text>
+<text x="182" y="131.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="12" fill="#333">Spray</text>
+<rect x="190" y="113" width="42" height="28" fill="#fcc177" stroke="#eee"/>
+<text x="211.0" y="131.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">53%</text>
+<rect x="232" y="113" width="42" height="28" fill="#fef9f3" stroke="#eee"/>
+<rect x="274" y="113" width="42" height="28" fill="#fefaf4" stroke="#eee"/>
+<rect x="316" y="113" width="42" height="28" fill="#fefcf8" stroke="#eee"/>
+<rect x="358" y="113" width="42" height="28" fill="#fefefc" stroke="#eee"/>
+<rect x="400" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="442" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="484" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="526" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="568" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="610" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="652" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="694" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="736" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="778" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="820" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="862" y="113" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="904" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="946" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="988" y="113" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<text x="182" y="159.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="12" fill="#333">JADE</text>
+<rect x="190" y="141" width="42" height="28" fill="#fef5e8" stroke="#eee"/>
+<rect x="232" y="141" width="42" height="28" fill="#fb910b" stroke="#eee"/>
+<text x="253.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">95%</text>
+<rect x="274" y="141" width="42" height="28" fill="#fb900a" stroke="#eee"/>
+<text x="295.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">96%</text>
+<rect x="316" y="141" width="42" height="28" fill="#fb8e06" stroke="#eee"/>
+<text x="337.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">97%</text>
+<rect x="358" y="141" width="42" height="28" fill="#fb8c02" stroke="#eee"/>
+<text x="379.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">99%</text>
+<rect x="400" y="141" width="42" height="28" fill="#fcb256" stroke="#eee"/>
+<text x="421.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">66%</text>
+<rect x="442" y="141" width="42" height="28" fill="#fefaf4" stroke="#eee"/>
+<rect x="484" y="141" width="42" height="28" fill="#fefbf7" stroke="#eee"/>
+<rect x="526" y="141" width="42" height="28" fill="#fef9f3" stroke="#eee"/>
+<rect x="568" y="141" width="42" height="28" fill="#fef7ed" stroke="#eee"/>
+<rect x="610" y="141" width="42" height="28" fill="#feeeda" stroke="#eee"/>
+<rect x="652" y="141" width="42" height="28" fill="#feecd6" stroke="#eee"/>
+<text x="673.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">16%</text>
+<rect x="694" y="141" width="42" height="28" fill="#fee6c8" stroke="#eee"/>
+<text x="715.0" y="159.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">21%</text>
+<rect x="736" y="141" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="778" y="141" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="820" y="141" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="862" y="141" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="904" y="141" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="946" y="141" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="988" y="141" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<text x="182" y="187.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="12" fill="#333">Sniper</text>
+<rect x="190" y="169" width="42" height="28" fill="#fefefd" stroke="#eee"/>
+<rect x="232" y="169" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="274" y="169" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="316" y="169" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="358" y="169" width="42" height="28" fill="#ffffff" stroke="#eee"/>
+<rect x="400" y="169" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="442" y="169" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="484" y="169" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="526" y="169" width="42" height="28" fill="#fefefe" stroke="#eee"/>
+<rect x="568" y="169" width="42" height="28" fill="#fefefc" stroke="#eee"/>
+<rect x="610" y="169" width="42" height="28" fill="#fefdfc" stroke="#eee"/>
+<rect x="652" y="169" width="42" height="28" fill="#fefbf7" stroke="#eee"/>
+<rect x="694" y="169" width="42" height="28" fill="#fef5e9" stroke="#eee"/>
+<rect x="736" y="169" width="42" height="28" fill="#fef9f1" stroke="#eee"/>
+<rect x="778" y="169" width="42" height="28" fill="#fef3e5" stroke="#eee"/>
+<rect x="820" y="169" width="42" height="28" fill="#fef1e1" stroke="#eee"/>
+<rect x="862" y="169" width="42" height="28" fill="#fef3e5" stroke="#eee"/>
+<rect x="904" y="169" width="42" height="28" fill="#fef6eb" stroke="#eee"/>
+<rect x="946" y="169" width="42" height="28" fill="#fef6eb" stroke="#eee"/>
+<rect x="988" y="169" width="42" height="28" fill="#fcac47" stroke="#eee"/>
+<text x="1009.0" y="187.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="8" fill="#111">72%</text>
+</svg>

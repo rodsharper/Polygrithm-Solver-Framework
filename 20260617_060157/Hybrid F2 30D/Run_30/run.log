@@ -1,0 +1,8 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Hybrid F2 30D
+Time: 10000ms
+Started: 06:16:56
+--- [Hybrid F2 30D] Run 30 of 30 ---
+[Hybrid F2 30D Run 30] Complete. Best=0.000000E+000, Solutions=240
+===== Problem 4 of 6: Schwefel 2.22 30D =====

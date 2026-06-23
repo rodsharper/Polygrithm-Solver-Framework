@@ -1,0 +1,8 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Hybrid F2 30D
+Time: 10000ms
+Started: 14:34:19
+--- [Hybrid F2 30D] Run 30 of 30 ---
+[Hybrid F2 30D Run 30] Complete. Best=5.790837E-003, Solutions=240
+===== Problem 6 of 10: Shifted Griewank 30D =====

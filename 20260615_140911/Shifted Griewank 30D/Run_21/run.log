@@ -1,0 +1,7 @@
+=== Batch Run 21 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Griewank 30D
+Time: 10000ms
+Started: 14:37:50
+--- [Shifted Griewank 30D] Run 21 of 30 ---
+[Shifted Griewank 30D Run 21] Complete. Best=0.000000E+000, Solutions=367

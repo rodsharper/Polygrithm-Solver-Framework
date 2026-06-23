@@ -1,0 +1,274 @@
+TimeMs,BestQuality,Source,Role,DeltaPct
+9,951976.793279073,HOG8-ML03-H1-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+10,941388.0478917481,HOG8-ML05-H1-GPS-JADE-Specialist-Exploiter,Exploiter,1.1122902850238627
+15,28.22254826456207,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.9970020281936
+47,27.675107801675818,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9397272625932678
+63,27.438448935412822,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8551325904814194
+78,26.332270048834804,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.031492046732835
+95,25.804525723924353,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.004173297371312
+110,25.1440538324012,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.5595195919869322
+110,24.45597309525649,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.736554502035134
+125,24.264909797814724,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.7812541202002878
+141,24.062047738071673,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8360305537229757
+157,23.61173344564369,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8714711953442036
+173,23.426176824559217,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.7858661521469426
+189,23.202230808989462,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.955964847558811
+205,22.76485458830663,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8850610714266993
+218,22.595751570306977,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.74282494247301
+236,22.222917995614697,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6500162587298899
+253,22.060119465036617,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.7325704509651034
+268,21.85207547808019,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9430773359417098
+284,21.459956034156804,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7944265491702276
+299,21.264460483166275,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9109783388156428
+316,20.87781622650262,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.818265067057479
+331,20.72128258784972,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.749760592557534
+348,20.454312231603915,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2883872178952351
+363,20.218625598891713,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1522588979943462
+379,20.03696039136453,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8985042362975447
+395,19.707425919746708,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.644633044041174
+410,19.50866145127162,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0085765096086254
+422,19.32353707634945,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9489342740637121
+436,0.7517161690276101,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,96.10984176417861
+458,0.5618965836182328,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,25.251496938654423
+474,0.5567362012877572,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9183864933376519
+489,0.5489634499493217,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.3961282417879126
+505,0.544309742982109,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8477261951851788
+521,0.5400236177975124,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.7874423046543687
+537,0.5360936199372931,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.727745552360804
+553,0.5275575662833808,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5922692112826793
+569,0.5230054396536926,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8628682291029786
+584,0.5149923572043433,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5321222002308688
+600,0.5102495389014753,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9209492600268139
+616,0.5058116051943203,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8697575144721251
+632,0.49694671923734357,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7526062798759026
+648,0.49396805579060604,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.5993929190857397
+664,0.484642278431836,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8879312638636014
+680,0.47987216319927317,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9842548710355093
+695,0.47070039738519076,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9112935730497282
+711,0.46687701025086764,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.8122761645332343
+726,0.46227317159097997,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9860923881032148
+740,0.45676857683067956,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1907666502374663
+743,0.4520599336272511,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.030859704951619
+760,0.44737753306974654,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0357919844684746
+775,0.4428403945830963,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0141632405002494
+792,0.43373583824383066,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.0559453136241035
+807,0.42914278711271714,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0589512616044137
+822,0.4247402492510428,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0258911471621617
+838,0.41692475563160214,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8400642823989406
+855,0.41223280719357247,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.125370555394775
+870,0.4074327449210952,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1644056922968986
+885,0.39879099435324156,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.12102504660671
+901,0.39332468708843515,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.370719836256997
+917,0.3856305620875702,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9561764754255109
+932,0.38110467944148385,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1736317322947503
+946,0.3769248016693525,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0967794408237252
+964,0.36824742718544523,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.3021500430526896
+980,0.3639057784389194,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.179003144627379
+997,0.3598370369435597,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1180755394469963
+1012,0.355333769646583,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.251474093725109
+1028,0.348580495012812,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.900543998530678
+1044,0.340844745946011,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.219214550864843
+1060,0.33682361360402363,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1797548267398859
+1075,0.33345023642688704,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0015263303666118
+1092,0.3252788019891983,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.450570893351409
+1107,0.3220091849070482,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0051737347024055
+1123,0.31367775566192946,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.587326584340669
+1140,0.3096902669532425,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2712054446680474
+1150,0.3058704169929034,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2334420445043561
+1171,0.29770938843589,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.668132680906745
+1187,0.29387281006396015,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2886991545972155
+1203,0.2870104867166725,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.335133810369898
+1218,0.2835037773358417,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.221805314832457
+1235,0.27970989485715175,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.338212320958134
+1250,0.2720045557421366,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.7547610065601256
+1266,0.2690556368932283,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.084143183139884
+1282,0.26510567290249687,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4680844587913022
+1299,0.25676781503479884,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.145107298690136
+1314,0.2538834990216204,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1233168038554813
+1329,0.247347516553101,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.5744022331923153
+1345,0.24361458155716265,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5091863657895106
+1356,0.2399617129091729,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4994458150415046
+1377,0.23421794639166338,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.393617901737338
+1393,0.23068168956098256,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5098146342583956
+1409,0.22350840452735682,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.1096031277026985
+1425,0.22020111498710734,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4797159629156906
+1440,0.21671448139931937,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5833859823970984
+1456,0.2104519260070013,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.889772456312529
+1472,0.2078071367516974,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2567189597570663
+1488,0.20161615807881111,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.9791944442618954
+1504,0.19835799159436002,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6160244870738436
+1521,0.19368752558068367,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.3545640768673453
+1535,0.19181268649001687,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.9679710064166224
+1550,0.1866081159548616,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.7133609514541424
+1563,0.1840569227321895,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.3671394781613972
+1582,0.17837698977800245,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.085965401285978
+1598,0.17584528700903942,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4192989645771228
+1614,0.16976411401094557,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.4582519108295733
+1629,0.1668736457863111,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.702637946467368
+1645,0.16355727053453156,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9873571025267143
+1661,0.15768002662437136,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.5933859075493366
+1677,0.15521831331726405,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.561208074229757
+1698,0.15248608593344337,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7602480824772522
+1709,0.15018385408222562,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.509797983943677
+1725,0.14498776325314872,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.4598198726689
+1741,0.14270479127214789,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5745963174938842
+1758,0.13775105508546198,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.471317355588143
+1768,0.13551979643958617,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6197760841044146
+1788,0.13120539340520188,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.183596159183745
+1803,0.12910175017648537,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6033206975111312
+1819,0.12440804397244501,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.635664270719757
+1835,0.12195870688140703,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9687931847722637
+1851,0.11932532909069701,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.159237218930766
+1867,0.11681302759361072,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.1054218046000464
+1869,0.11426929134467179,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.177613491697619
+1883,0.11185193290713574,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.1154926306880975
+1899,0.10990510594980889,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7405393959022544
+1915,0.10474314552711403,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.696743047636209
+1932,0.10238524677061138,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.2511246388836765
+1946,0.10051934569206322,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8224315879499786
+1964,0.09619144710245822,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.305537963670531
+1978,0.09436438280651238,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8994041060633435
+1993,0.0908475449785488,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.7268699517429296
+2009,0.0891491121276943,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8695418255446934
+2025,0.08672566307310464,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.7184219749921796
+2040,0.0850626240283408,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9175858515627517
+2055,0.08331589971553723,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.0534568886819358
+2059,0.08178077220899774,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8425384731855794
+2076,0.08020479575781675,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9270745538492178
+2092,0.07749464978101599,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.3790323274236775
+2108,0.07640582351528698,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4050341137172815
+2124,0.07527088639081307,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4854065727684123
+2140,0.07374932566156203,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.0214465408989106
+2155,0.07333139756686495,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.5666873438476802
+2171,0.07188842853436808,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9677369863040484
+2202,0.07120707573048951,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.947792040763324
+2214,0.07077956934890377,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.6003706474393151
+2224,0.06976024602511882,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4401377871632008
+2234,0.06910226334996372,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.943205783589378
+2249,0.06616436323792314,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.251525159402931
+2265,0.06486138950097167,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9692983853952535
+2281,0.0634613980030848,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.158435871722885
+2296,0.06055938751294683,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.572875135837544
+2313,0.05915819549454385,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.313748662176324
+2317,0.05815881405815529,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6893372558680069
+2328,0.057013455936595875,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.969362924790945
+2344,0.0556778614332634,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.3425952371976493
+2360,0.05448941068890314,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.134512198865185
+2375,0.05207003360554186,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.440086711846173
+2391,0.05116268223644479,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7425595995784087
+2408,0.05034109084836317,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6058411173297977
+2409,0.049126649029861635,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.412426504939397
+2422,0.048060893990980985,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.169403083513453
+2438,0.04693574229974505,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.341096050870544
+2454,0.04583425687783703,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.346794506569474
+2470,0.04475778104478007,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.348627219867685
+2485,0.04291034720548936,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.127626071190516
+2504,0.04217334742481492,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7175339485021974
+2523,0.04142780023492117,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7678160151334599
+2532,0.0406307424820864,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.9239683215496715
+2564,0.04015044751092876,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.1820974508880702
+2575,0.039433368617786735,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.7859798273651695
+2624,0.03917158343471485,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.6638671567962475
+2630,0.03867587132525896,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.2654890764935953
+2638,0.03751190214840988,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.0095486849158513
+2654,0.036579405153750355,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.4858696607019555
+2670,0.035436319530526755,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.1249431706693658
+2686,0.03345978132955896,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.577718643340207
+2703,0.03240293508258387,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.1585569450253694
+2718,0.030757824287172553,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.0770425309265965
+2731,0.029903877533821503,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.776356173239422
+2750,0.028160007279571145,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.831585727563351
+2765,0.027266959449483014,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.171333804078944
+2781,0.02633138024853028,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.4311827201931426
+2797,0.024877840706467542,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.52017983236511
+2813,0.024078768964627763,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.211981904973138
+2833,0.022707708979669394,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.694061797646242
+2845,0.022247127819212863,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.0283030792269616
+2860,0.02065144221003815,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.172546596314613
+2878,0.019933105792700336,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.4783837856546804
+2892,0.0193061584968601,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.145256451053554
+2908,0.018204814915317852,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.70462312179487
+2924,0.017660989396706656,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.9872620026123555
+2936,0.016982994854665576,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.838938616697824
+2956,0.015830533743653206,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,6.785971030873658
+2972,0.015343689170410279,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.075351602962304
+2988,0.014168926593044978,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.656324136380355
+3003,0.013703961254714533,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.281584778332324
+3019,0.01327318588710998,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.143436847184269
+3035,0.012717681116994686,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.185165301231584
+3056,0.011825028301231421,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.018990392599242
+3066,0.011516448509218243,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.6095480209636728
+3082,0.010766754009352383,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,6.50977164762012
+3098,0.010316716335718144,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.179882564822419
+3114,0.009961217117309892,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.445856286437343
+3130,0.009088115418337244,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,8.765010226063987
+3141,0.008689113053192461,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.390375196376901
+3161,0.008077879552617344,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.034475174086315
+3177,0.007788778236944217,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.578925803362018
+3194,0.007147962658026991,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,8.22742103347698
+3209,0.006897946484382814,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.4977263537242385
+3225,0.00636610676608463,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.710116619522743
+3241,0.006135516863317847,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.622149474389095
+3257,0.005892770335120227,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.9564153046162733
+3273,0.005663284951825144,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.8943547812711565
+3288,0.005601753989275168,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0864889030552156
+3304,0.005337346553922541,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.720082957210325
+3335,0.005068532376608002,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.036475982939146
+3348,0.004915393763339786,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.021360068152524
+3367,0.004469179944510326,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,9.077885522771995
+3383,0.004288008504813681,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.053796041915598
+3401,0.003894246199320446,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,9.182871373767112
+3415,0.003733865131020396,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.118411114531914
+3430,0.0035314724949412515,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.420459201852171
+3446,0.0032422794496406943,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,8.18902159693497
+3463,0.0030949760254242267,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.543205683050904
+3480,0.0027965780133572043,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,9.64136748122697
+3494,0.0026375180938619444,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.687662519534488
+3510,0.0025249006386800924,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.269826828636224
+3526,0.0023774159082767246,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.841209279445799
+3543,0.0022207715618844754,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,6.588849088075345
+3556,0.0021169187839463303,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.676427765943606
+3559,0.002019793534023517,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.588047999732602
+3574,0.0019016069834350722,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.851417414581579
+3590,0.001813613676207947,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.627313003877051
+3607,0.0016447260375299624,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,9.312216868098876
+3621,0.0015724866260381437,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.392185071764736
+3637,0.001475365886136509,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,6.176252204212954
+3653,0.0013406749738701573,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,9.129322667142741
+3669,0.001278226027186679,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.6580228542049555
+3685,0.0011488828584105362,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,10.118959090578187
+3700,0.0010825253774452645,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.77582653266116
+3716,0.0010331310276848365,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.562881461217801
+3732,0.0009441420260378431,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,8.61352522210184
+3748,0.000904339045790694,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.215783128962603
+3761,0.0008549399553415724,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.462452459512054
+3766,0.0008196846382206296,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.123718502179185
+3780,0.0007855892391911811,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.159575212177048
+3795,0.0007484098614629995,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.732674007406265
+3811,0.0007471086442104518,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Refiner,Refiner,0.1738642580155234
+3811,0.0006938145879146048,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.1333743370307925
+3828,0.0006711046566943066,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.2731988655005457
+3843,0.0006206695525358889,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,7.5152368047702724
+3859,0.0006045252077340454,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.601117573092161
+3874,0.0005887465665265773,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.6100882156116434
+3891,0.000582463494523916,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.0671946742262026
+3922,0.0005792061053718467,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.5592434861058135
+3938,0.0005701123537498392,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.5700372523126973
+3954,0.0005531590322423977,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,2.9736807834338785
+3966,0.0005441508171159299,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.6285036673721547
+3985,0.0005434494090466453,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Refiner,Refiner,0.12889957107887245
+3986,0.0005334983016730629,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.8311009650446135
+4001,0.000531229457172317,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Refiner,Refiner,0.42527679912584715
+4017,0.0005304128496228207,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Refiner,Refiner,0.15372030644590942
+4035,0.00044292699016848806,HOG8-ML04-H1-GPS-Sniper-Specialist-Local Explorer,Local Explorer,16.493917806958166
+4050,0.00035094687934172,HOG8-ML04-H2-GPS-Sniper-Specialist-Local Explorer,Local Explorer,20.766427169357897
+4065,0.0002799805778692189,HOG8-ML04-H2-GPS-Sniper-Specialist-Local Explorer,Local Explorer,20.221379829794866
+4081,0.00023431349753584297,HOG8-ML04-H2-GPS-Sniper-Specialist-Local Explorer,Local Explorer,16.31080294244816
+4097,0.00018033550046613148,HOG8-ML04-H2-GPS-Sniper-Specialist-Local Explorer,Local Explorer,23.036657144112866
+4105,0.00017384484347418214,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,3.5992120104872765
+4112,0.00014577900654527408,HOG8-ML04-H2-GPS-Sniper-Specialist-Local Explorer,Local Explorer,16.14418717750242
+4116,0.00012331073160689986,HOG8-ML04-H1-GPS-Sniper-Specialist-Local Explorer,Local Explorer,15.412558687863143
+4128,0.00010136849715591014,HOG8-ML04-H1-GPS-Sniper-Specialist-Local Explorer,Local Explorer,17.79426183354339
+4139,9.22387468013989E-05,HOG8-ML04-H1-GPS-Sniper-Specialist-Local Explorer,Local Explorer,9.006496703279723
+4141,0,HOG8-ML04-H1-GPS-Sniper-Specialist-Global Explorer,Global Explorer,100
+10000,0,Final,Final,0

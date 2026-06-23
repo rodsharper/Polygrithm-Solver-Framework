@@ -1,0 +1,7 @@
+=== Batch Run 10 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Rosenbrock 30D
+Time: 10000ms
+Started: 10:06:34
+--- [Rosenbrock 30D] Run 10 of 30 ---
+[Rosenbrock 30D Run 10] Complete. Best=6.206816E-003, Solutions=240

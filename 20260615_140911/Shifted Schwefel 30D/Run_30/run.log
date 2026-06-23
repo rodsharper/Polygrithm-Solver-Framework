@@ -1,0 +1,8 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Schwefel 30D
+Time: 10000ms
+Started: 14:29:13
+--- [Shifted Schwefel 30D] Run 30 of 30 ---
+[Shifted Schwefel 30D Run 30] Complete. Best=-1.645045E+003, Solutions=240
+===== Problem 5 of 10: Hybrid F2 30D =====

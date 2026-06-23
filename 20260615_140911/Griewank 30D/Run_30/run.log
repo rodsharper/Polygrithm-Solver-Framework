@@ -1,0 +1,19 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Griewank 30D
+Time: 10000ms
+Started: 14:59:34
+--- [Griewank 30D] Run 30 of 30 ---
+[Griewank 30D Run 30] Complete. Best=0.000000E+000, Solutions=368
+All 10 problem(s) x 30 run(s) completed at 14:59:44. Overall Best=-1.646829E+003, Total Solutions=94676
+[Shifted Rastrigin 30D] Stats: Best=0.000000E+000 Mean=1.156366E+000 StdDev=4.474115E+000 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=2 (n=30)
+[Shifted Ackley 30D] Stats: Best=0.000000E+000 Mean=0.000000E+000 StdDev=0.000000E+000 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=0 (n=30)
+[Shifted Rosenbrock 30D] Stats: Best=0.000000E+000 Mean=1.718196E-003 StdDev=1.598620E-003 Median=1.442034E-003 Q1=1.028835E-003 Q3=2.280416E-003 IQR=1.251581E-003 Outliers=2 (n=30)
+[Shifted Schwefel 30D] Stats: Best=-1.646829E+003 Mean=-1.645091E+003 StdDev=5.782546E-001 Median=-1.644979E+003 Q1=-1.645250E+003 Q3=-1.644725E+003 IQR=5.247470E-001 Outliers=2 (n=30)
+[Hybrid F2 30D] Stats: Best=0.000000E+000 Mean=1.788451E-001 StdDev=6.574563E-001 Median=4.948295E-003 Q1=2.528154E-003 Q3=5.686570E-003 IQR=3.158416E-003 Outliers=2 (n=30)
+[Shifted Griewank 30D] Stats: Best=0.000000E+000 Mean=0.000000E+000 StdDev=0.000000E+000 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=0 (n=30)
+[Schwefel 2.22 30D] Stats: Best=0.000000E+000 Mean=1.434488E-009 StdDev=7.485086E-009 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=6 (n=30)
+[Rosenbrock 30D] Stats: Best=0.000000E+000 Mean=1.287329E-003 StdDev=6.420707E-004 Median=1.381206E-003 Q1=1.153717E-003 Q3=1.441628E-003 IQR=2.879112E-004 Outliers=8 (n=30)
+[Ackley 30D] Stats: Best=0.000000E+000 Mean=0.000000E+000 StdDev=0.000000E+000 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=0 (n=30)
+[Griewank 30D] Stats: Best=0.000000E+000 Mean=0.000000E+000 StdDev=0.000000E+000 Median=0.000000E+000 Q1=0.000000E+000 Q3=0.000000E+000 IQR=0.000000E+000 Outliers=0 (n=30)
+Consolidated batch summary written to: C:\Users\r_sha\source\Workspaces\PolygrithmSolverFramework\General Problem Solver\logs\BatchRuns\20260615_140911\batch_summary.md

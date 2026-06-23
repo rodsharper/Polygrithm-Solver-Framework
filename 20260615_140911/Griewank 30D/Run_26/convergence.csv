@@ -1,0 +1,19 @@
+TimeMs,BestQuality,Source,Role,DeltaPct
+12,455.7400867522683,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+12,449.2657195038319,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,1.4206271154627992
+12,424.1070125826187,HOG8-ML02-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,5.599961410142402
+16,214.428976193453,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,49.43988902996956
+16,179.05071756317363,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,16.498823647025155
+26,1.074651340148769,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,99.3998061807434
+26,1.063274384351704,HOG8-ML06-H2-GPS-Spray-Specialist-Exploiter,Exploiter,1.0586648312828528
+27,1.0550226540490972,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,0.776067816929311
+27,0.20934075313921086,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,80.15770065829612
+27,0.16776570117893452,HOG8-ML06-H1-GPS-Spray-Specialist-Local Explorer,Local Explorer,19.85998967560276
+42,0.00012626485677758037,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.92473738321344
+42,7.588641062861168E-05,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,39.899024506646334
+42,4.900178256761478E-05,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Local Explorer,Local Explorer,35.427460382294726
+58,3.542821237489946E-07,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.27700155956542
+58,4.407390652438892E-08,HOG8-ML01-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,87.55965837113055
+74,1.1603829008777211E-10,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.73671884514353
+74,0,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+10000,0,Final,Final,0

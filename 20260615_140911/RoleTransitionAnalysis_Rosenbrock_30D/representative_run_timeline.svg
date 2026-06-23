@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="550.0" y="30" text-anchor="middle" font-family="Segoe UI, Arial" font-size="20" font-weight="700">Representative Convergence Timeline</text>
+<text x="550.0" y="52" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" fill="#555">Run_16; active improvement time normalized from first to last non-final event</text>
+<line x1="80.0" x2="80.0" y1="80" y2="430" stroke="#eee"/>
+<text x="80.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">0%</text>
+<line x1="178.0" x2="178.0" y1="80" y2="430" stroke="#eee"/>
+<text x="178.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">10%</text>
+<line x1="276.0" x2="276.0" y1="80" y2="430" stroke="#eee"/>
+<text x="276.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">20%</text>
+<line x1="374.0" x2="374.0" y1="80" y2="430" stroke="#eee"/>
+<text x="374.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">30%</text>
+<line x1="472.0" x2="472.0" y1="80" y2="430" stroke="#eee"/>
+<text x="472.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">40%</text>
+<line x1="570.0" x2="570.0" y1="80" y2="430" stroke="#eee"/>
+<text x="570.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">50%</text>
+<line x1="668.0" x2="668.0" y1="80" y2="430" stroke="#eee"/>
+<text x="668.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">60%</text>
+<line x1="766.0" x2="766.0" y1="80" y2="430" stroke="#eee"/>
+<text x="766.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">70%</text>
+<line x1="864.0" x2="864.0" y1="80" y2="430" stroke="#eee"/>
+<text x="864.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">80%</text>
+<line x1="962.0" x2="962.0" y1="80" y2="430" stroke="#eee"/>
+<text x="962.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">90%</text>
+<line x1="1060.0" x2="1060.0" y1="80" y2="430" stroke="#eee"/>
+<text x="1060.0" y="448" text-anchor="middle" font-family="Segoe UI, Arial" font-size="10" fill="#666">100%</text>
+<line x1="80" x2="1060" y1="420.8" y2="420.8" stroke="#eee"/>
+<text x="72" y="424.8" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">0</text>
+<line x1="80" x2="1060" y1="402.5" y2="402.5" stroke="#eee"/>
+<text x="72" y="406.5" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-11</text>
+<line x1="80" x2="1060" y1="384.1" y2="384.1" stroke="#eee"/>
+<text x="72" y="388.1" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-10</text>
+<line x1="80" x2="1060" y1="365.7" y2="365.7" stroke="#eee"/>
+<text x="72" y="369.7" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-9</text>
+<line x1="80" x2="1060" y1="347.4" y2="347.4" stroke="#eee"/>
+<text x="72" y="351.4" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-8</text>
+<line x1="80" x2="1060" y1="329.0" y2="329.0" stroke="#eee"/>
+<text x="72" y="333.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-7</text>
+<line x1="80" x2="1060" y1="310.6" y2="310.6" stroke="#eee"/>
+<text x="72" y="314.6" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-6</text>
+<line x1="80" x2="1060" y1="292.3" y2="292.3" stroke="#eee"/>
+<text x="72" y="296.3" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-5</text>
+<line x1="80" x2="1060" y1="273.9" y2="273.9" stroke="#eee"/>
+<text x="72" y="277.9" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-4</text>
+<line x1="80" x2="1060" y1="255.5" y2="255.5" stroke="#eee"/>
+<text x="72" y="259.5" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-3</text>
+<line x1="80" x2="1060" y1="237.2" y2="237.2" stroke="#eee"/>
+<text x="72" y="241.2" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-2</text>
+<line x1="80" x2="1060" y1="218.8" y2="218.8" stroke="#eee"/>
+<text x="72" y="222.8" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E-1</text>
+<line x1="80" x2="1060" y1="200.4" y2="200.4" stroke="#eee"/>
+<text x="72" y="204.4" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1</text>
+<line x1="80" x2="1060" y1="182.1" y2="182.1" stroke="#eee"/>
+<text x="72" y="186.1" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E1</text>
+<line x1="80" x2="1060" y1="163.7" y2="163.7" stroke="#eee"/>
+<text x="72" y="167.7" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E2</text>
+<line x1="80" x2="1060" y1="145.3" y2="145.3" stroke="#eee"/>
+<text x="72" y="149.3" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E3</text>
+<line x1="80" x2="1060" y1="127.0" y2="127.0" stroke="#eee"/>
+<text x="72" y="131.0" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E4</text>
+<line x1="80" x2="1060" y1="108.6" y2="108.6" stroke="#eee"/>
+<text x="72" y="112.6" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E5</text>
+<line x1="80" x2="1060" y1="90.2" y2="90.2" stroke="#eee"/>
+<text x="72" y="94.2" text-anchor="end" font-family="Segoe UI, Arial" font-size="10" fill="#666">1E6</text>
+<polyline fill="none" stroke="#333" stroke-width="2" points="80.0,89.2 80.0,91.3 80.0,91.4 80.8,96.8 82.4,173.5 86.1,174.3 88.4,174.9 91.1,175.5 93.4,176.2 96.3,176.2 99.5,176.3 102.7,176.4 104.8,176.4 107.7,176.5 111.4,176.5 114.3,176.6 117.2,176.7 119.8,176.8 122.2,176.8 125.6,176.9 128.0,177.0 130.9,177.0 134.0,177.1 136.7,177.2 140.4,177.3 141.2,180.2 143.3,210.6 146.4,210.8 149.9,210.9 151.7,211.0 155.4,211.1 157.8,211.2 160.4,211.3 164.1,211.5 167.0,211.6 169.6,211.7 172.5,211.9 174.9,212.0 178.1,212.1 181.0,212.3 184.4,212.4 186.8,212.5 189.4,212.7 192.3,212.8 194.7,212.9 198.9,213.1 202.9,213.1 204.4,213.2 208.1,213.3 215.3,213.5 216.6,213.6 219.5,213.7 223.2,213.9 225.3,214.1 227.6,214.2 231.1,214.4 234.2,214.5 236.9,214.7 239.8,214.8 243.2,215.0 246.1,215.1 247.9,215.3 251.4,215.5 254.0,215.6 256.1,215.8 260.6,215.9 261.9,216.0 264.8,216.2 267.2,216.4 270.4,216.6 274.0,216.8 276.7,216.9 279.1,217.1 282.0,217.3 285.9,217.5 288.8,217.7 290.9,217.8 293.6,218.0 296.2,218.2 299.4,218.4 302.3,218.6 305.7,218.8 308.6,218.9 311.0,219.2 313.9,219.4 317.3,219.6 319.9,219.8 323.1,219.9 325.2,220.2 329.2,220.4 332.1,220.6 335.0,220.9 337.1,221.1 340.0,221.3 346.3,221.7 349.2,221.9 351.6,222.1 354.2,222.3 358.7,222.5 361.1,222.7 365.3,222.9 369.2,223.0 372.9,223.2 375.6,223.4 378.2,223.6 380.8,223.9 383.5,224.1 387.2,224.4 390.1,224.6 392.7,224.9 395.3,225.2 397.7,225.4 400.9,225.6 403.2,225.9 407.5,226.2 409.8,226.5 412.5,226.8 415.1,227.0 418.3,227.3 421.7,227.6 424.3,227.8 427.0,228.1 429.3,228.4 432.0,228.7 434.6,228.9 437.8,229.2 441.5,229.4 443.8,229.8 446.7,230.1 449.4,230.4 451.8,230.7 454.9,231.0 458.9,231.3 461.2,231.6 463.9,231.9 466.5,232.3 469.4,232.6 471.8,232.9 477.6,233.4 481.3,233.7 483.7,234.1 486.3,234.4 490.0,234.8 492.6,235.2 495.5,235.5 498.2,235.8 500.8,236.2 504.5,236.6 507.6,236.9 511.9,237.4 514.5,237.8 517.1,238.2 519.8,238.6 522.4,238.9 526.4,239.4 528.7,239.8 531.4,240.1 534.3,240.5 538.0,241.0 540.6,241.5 543.0,241.9 546.9,242.4 549.8,242.7 552.5,243.2 556.4,243.7 558.8,244.0 563.0,244.3 567.2,244.6 571.2,244.9 573.6,245.4 576.2,245.9 578.8,246.4 581.7,247.0 585.7,247.4 587.8,248.0 591.8,248.4 594.7,248.9 596.8,249.4 599.9,249.9 602.6,250.4 605.2,250.9 610.5,251.7 614.4,252.0 617.1,252.6 619.7,253.2 622.6,253.8 626.3,254.3 628.9,254.8 631.6,255.4 636.0,255.9 638.2,256.4 640.5,256.8 643.4,257.3 647.4,257.7 650.0,258.1 652.7,258.5 656.6,258.9 659.0,259.3 661.6,259.6 664.8,259.8 667.2,260.0 669.8,260.2 672.4,260.4 675.3,260.5 679.0,260.5 681.7,260.6 684.6,260.6 871.8,261.0 935.0,261.5 966.7,261.6 975.4,262.0 1046.6,263.0 1048.1,263.9 1049.5,266.9 1050.8,268.7 1052.1,269.8 1055.8,272.6 1057.6,273.7 1058.4,274.6 1060.0,420.8"/>
+<circle cx="80.0" cy="89.2" r="5" fill="#7E57C2" opacity="0.85"><title>Global Explorer / GradientEstimation-Escape / 1.139E+06</title></circle>
+<circle cx="80.0" cy="91.3" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 8.765E+05</title></circle>
+<circle cx="80.0" cy="91.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.642E+05</title></circle>
+<circle cx="80.8" cy="96.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / JADE / 4.379E+05</title></circle>
+<circle cx="82.4" cy="173.5" r="5" fill="#7E57C2" opacity="0.85"><title>Global Explorer / Spray / 2.930E+01</title></circle>
+<circle cx="86.1" cy="174.3" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.627E+01</title></circle>
+<circle cx="88.4" cy="174.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.455E+01</title></circle>
+<circle cx="91.1" cy="175.5" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.262E+01</title></circle>
+<circle cx="93.4" cy="176.2" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.094E+01</title></circle>
+<circle cx="96.3" cy="176.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.080E+01</title></circle>
+<circle cx="99.5" cy="176.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.061E+01</title></circle>
+<circle cx="102.7" cy="176.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.043E+01</title></circle>
+<circle cx="104.8" cy="176.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.026E+01</title></circle>
+<circle cx="107.7" cy="176.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.012E+01</title></circle>
+<circle cx="111.4" cy="176.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.994E+01</title></circle>
+<circle cx="114.3" cy="176.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.976E+01</title></circle>
+<circle cx="117.2" cy="176.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.962E+01</title></circle>
+<circle cx="119.8" cy="176.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.943E+01</title></circle>
+<circle cx="122.2" cy="176.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.925E+01</title></circle>
+<circle cx="125.6" cy="176.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.908E+01</title></circle>
+<circle cx="128.0" cy="177.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.891E+01</title></circle>
+<circle cx="130.9" cy="177.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.876E+01</title></circle>
+<circle cx="134.0" cy="177.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.858E+01</title></circle>
+<circle cx="136.7" cy="177.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.841E+01</title></circle>
+<circle cx="140.4" cy="177.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.823E+01</title></circle>
+<circle cx="141.2" cy="180.2" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.267E+01</title></circle>
+<circle cx="143.3" cy="210.6" r="5" fill="#7E57C2" opacity="0.85"><title>Global Explorer / GradientEstimation-Escape / 2.778E-01</title></circle>
+<circle cx="146.4" cy="210.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.738E-01</title></circle>
+<circle cx="149.9" cy="210.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.692E-01</title></circle>
+<circle cx="151.7" cy="211.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.654E-01</title></circle>
+<circle cx="155.4" cy="211.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.617E-01</title></circle>
+<circle cx="157.8" cy="211.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.580E-01</title></circle>
+<circle cx="160.4" cy="211.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.541E-01</title></circle>
+<circle cx="164.1" cy="211.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.497E-01</title></circle>
+<circle cx="167.0" cy="211.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.460E-01</title></circle>
+<circle cx="169.6" cy="211.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.417E-01</title></circle>
+<circle cx="172.5" cy="211.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.383E-01</title></circle>
+<circle cx="174.9" cy="212.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.346E-01</title></circle>
+<circle cx="178.1" cy="212.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.304E-01</title></circle>
+<circle cx="181.0" cy="212.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.259E-01</title></circle>
+<circle cx="184.4" cy="212.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.232E-01</title></circle>
+<circle cx="186.8" cy="212.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.196E-01</title></circle>
+<circle cx="189.4" cy="212.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.155E-01</title></circle>
+<circle cx="192.3" cy="212.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.120E-01</title></circle>
+<circle cx="194.7" cy="212.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.086E-01</title></circle>
+<circle cx="198.9" cy="213.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.046E-01</title></circle>
+<circle cx="202.9" cy="213.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.033E-01</title></circle>
+<circle cx="204.4" cy="213.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.013E-01</title></circle>
+<circle cx="208.1" cy="213.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.986E-01</title></circle>
+<circle cx="215.3" cy="213.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.934E-01</title></circle>
+<circle cx="216.6" cy="213.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.921E-01</title></circle>
+<circle cx="219.5" cy="213.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.880E-01</title></circle>
+<circle cx="223.2" cy="213.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.843E-01</title></circle>
+<circle cx="225.3" cy="214.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.810E-01</title></circle>
+<circle cx="227.6" cy="214.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.782E-01</title></circle>
+<circle cx="231.1" cy="214.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.741E-01</title></circle>
+<circle cx="234.2" cy="214.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.705E-01</title></circle>
+<circle cx="236.9" cy="214.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.674E-01</title></circle>
+<circle cx="239.8" cy="214.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.638E-01</title></circle>
+<circle cx="243.2" cy="215.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.608E-01</title></circle>
+<circle cx="246.1" cy="215.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.578E-01</title></circle>
+<circle cx="247.9" cy="215.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.550E-01</title></circle>
+<circle cx="251.4" cy="215.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.515E-01</title></circle>
+<circle cx="254.0" cy="215.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.486E-01</title></circle>
+<circle cx="256.1" cy="215.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.457E-01</title></circle>
+<circle cx="260.6" cy="215.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.430E-01</title></circle>
+<circle cx="261.9" cy="216.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.412E-01</title></circle>
+<circle cx="264.8" cy="216.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.380E-01</title></circle>
+<circle cx="267.2" cy="216.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.347E-01</title></circle>
+<circle cx="270.4" cy="216.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.316E-01</title></circle>
+<circle cx="274.0" cy="216.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.289E-01</title></circle>
+<circle cx="276.7" cy="216.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.262E-01</title></circle>
+<circle cx="279.1" cy="217.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.236E-01</title></circle>
+<circle cx="282.0" cy="217.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.206E-01</title></circle>
+<circle cx="285.9" cy="217.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.175E-01</title></circle>
+<circle cx="288.8" cy="217.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.151E-01</title></circle>
+<circle cx="290.9" cy="217.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.126E-01</title></circle>
+<circle cx="293.6" cy="218.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.102E-01</title></circle>
+<circle cx="296.2" cy="218.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.079E-01</title></circle>
+<circle cx="299.4" cy="218.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.050E-01</title></circle>
+<circle cx="302.3" cy="218.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.028E-01</title></circle>
+<circle cx="305.7" cy="218.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.004E-01</title></circle>
+<circle cx="308.6" cy="218.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 9.815E-02</title></circle>
+<circle cx="311.0" cy="219.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 9.549E-02</title></circle>
+<circle cx="313.9" cy="219.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 9.280E-02</title></circle>
+<circle cx="317.3" cy="219.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 9.072E-02</title></circle>
+<circle cx="319.9" cy="219.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.860E-02</title></circle>
+<circle cx="323.1" cy="219.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.646E-02</title></circle>
+<circle cx="325.2" cy="220.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.409E-02</title></circle>
+<circle cx="329.2" cy="220.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.185E-02</title></circle>
+<circle cx="332.1" cy="220.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.925E-02</title></circle>
+<circle cx="335.0" cy="220.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.699E-02</title></circle>
+<circle cx="337.1" cy="221.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.502E-02</title></circle>
+<circle cx="340.0" cy="221.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.337E-02</title></circle>
+<circle cx="346.3" cy="221.7" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 6.958E-02</title></circle>
+<circle cx="349.2" cy="221.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.784E-02</title></circle>
+<circle cx="351.6" cy="222.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.612E-02</title></circle>
+<circle cx="354.2" cy="222.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.436E-02</title></circle>
+<circle cx="358.7" cy="222.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.266E-02</title></circle>
+<circle cx="361.1" cy="222.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.140E-02</title></circle>
+<circle cx="365.3" cy="222.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.967E-02</title></circle>
+<circle cx="369.2" cy="223.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.876E-02</title></circle>
+<circle cx="372.9" cy="223.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.750E-02</title></circle>
+<circle cx="375.6" cy="223.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.598E-02</title></circle>
+<circle cx="378.2" cy="223.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.439E-02</title></circle>
+<circle cx="380.8" cy="223.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.284E-02</title></circle>
+<circle cx="383.5" cy="224.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.110E-02</title></circle>
+<circle cx="387.2" cy="224.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.937E-02</title></circle>
+<circle cx="390.1" cy="224.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.795E-02</title></circle>
+<circle cx="392.7" cy="224.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.655E-02</title></circle>
+<circle cx="395.3" cy="225.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.497E-02</title></circle>
+<circle cx="397.7" cy="225.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.363E-02</title></circle>
+<circle cx="400.9" cy="225.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.237E-02</title></circle>
+<circle cx="403.2" cy="225.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.110E-02</title></circle>
+<circle cx="407.5" cy="226.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.963E-02</title></circle>
+<circle cx="409.8" cy="226.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.825E-02</title></circle>
+<circle cx="412.5" cy="226.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.676E-02</title></circle>
+<circle cx="415.1" cy="227.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.562E-02</title></circle>
+<circle cx="418.3" cy="227.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.429E-02</title></circle>
+<circle cx="421.7" cy="227.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.328E-02</title></circle>
+<circle cx="424.3" cy="227.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.218E-02</title></circle>
+<circle cx="427.0" cy="228.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.110E-02</title></circle>
+<circle cx="429.3" cy="228.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.991E-02</title></circle>
+<circle cx="432.0" cy="228.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.890E-02</title></circle>
+<circle cx="434.6" cy="228.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.797E-02</title></circle>
+<circle cx="437.8" cy="229.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.711E-02</title></circle>
+<circle cx="441.5" cy="229.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.627E-02</title></circle>
+<circle cx="443.8" cy="229.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.522E-02</title></circle>
+<circle cx="446.7" cy="230.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.422E-02</title></circle>
+<circle cx="449.4" cy="230.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.332E-02</title></circle>
+<circle cx="451.8" cy="230.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.250E-02</title></circle>
+<circle cx="454.9" cy="231.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.155E-02</title></circle>
+<circle cx="458.9" cy="231.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.077E-02</title></circle>
+<circle cx="461.2" cy="231.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 2.004E-02</title></circle>
+<circle cx="463.9" cy="231.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.930E-02</title></circle>
+<circle cx="466.5" cy="232.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.846E-02</title></circle>
+<circle cx="469.4" cy="232.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.776E-02</title></circle>
+<circle cx="471.8" cy="232.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.709E-02</title></circle>
+<circle cx="477.6" cy="233.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.608E-02</title></circle>
+<circle cx="481.3" cy="233.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.545E-02</title></circle>
+<circle cx="483.7" cy="234.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.473E-02</title></circle>
+<circle cx="486.3" cy="234.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.406E-02</title></circle>
+<circle cx="490.0" cy="234.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.348E-02</title></circle>
+<circle cx="492.6" cy="235.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.285E-02</title></circle>
+<circle cx="495.5" cy="235.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.231E-02</title></circle>
+<circle cx="498.2" cy="235.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.179E-02</title></circle>
+<circle cx="500.8" cy="236.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.122E-02</title></circle>
+<circle cx="504.5" cy="236.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.073E-02</title></circle>
+<circle cx="507.6" cy="236.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.027E-02</title></circle>
+<circle cx="511.9" cy="237.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 9.749E-03</title></circle>
+<circle cx="514.5" cy="237.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 9.246E-03</title></circle>
+<circle cx="517.1" cy="238.2" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 8.762E-03</title></circle>
+<circle cx="519.8" cy="238.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 8.364E-03</title></circle>
+<circle cx="522.4" cy="238.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.986E-03</title></circle>
+<circle cx="526.4" cy="239.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 7.555E-03</title></circle>
+<circle cx="528.7" cy="239.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.208E-03</title></circle>
+<circle cx="531.4" cy="240.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.880E-03</title></circle>
+<circle cx="534.3" cy="240.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.556E-03</title></circle>
+<circle cx="538.0" cy="241.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 6.187E-03</title></circle>
+<circle cx="540.6" cy="241.5" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 5.823E-03</title></circle>
+<circle cx="543.0" cy="241.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.547E-03</title></circle>
+<circle cx="546.9" cy="242.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 5.212E-03</title></circle>
+<circle cx="549.8" cy="242.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.960E-03</title></circle>
+<circle cx="552.5" cy="243.2" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 4.708E-03</title></circle>
+<circle cx="556.4" cy="243.7" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 4.421E-03</title></circle>
+<circle cx="558.8" cy="244.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.235E-03</title></circle>
+<circle cx="563.0" cy="244.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 4.060E-03</title></circle>
+<circle cx="567.2" cy="244.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.933E-03</title></circle>
+<circle cx="571.2" cy="244.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 3.766E-03</title></circle>
+<circle cx="573.6" cy="245.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 3.560E-03</title></circle>
+<circle cx="576.2" cy="245.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 3.338E-03</title></circle>
+<circle cx="578.8" cy="246.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 3.126E-03</title></circle>
+<circle cx="581.7" cy="247.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.923E-03</title></circle>
+<circle cx="585.7" cy="247.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.760E-03</title></circle>
+<circle cx="587.8" cy="248.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.577E-03</title></circle>
+<circle cx="591.8" cy="248.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.431E-03</title></circle>
+<circle cx="594.7" cy="248.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.292E-03</title></circle>
+<circle cx="596.8" cy="249.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.158E-03</title></circle>
+<circle cx="599.9" cy="249.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 2.013E-03</title></circle>
+<circle cx="602.6" cy="250.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.895E-03</title></circle>
+<circle cx="605.2" cy="250.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.788E-03</title></circle>
+<circle cx="610.5" cy="251.7" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.622E-03</title></circle>
+<circle cx="614.4" cy="252.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 1.546E-03</title></circle>
+<circle cx="617.1" cy="252.6" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.439E-03</title></circle>
+<circle cx="619.7" cy="253.2" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.340E-03</title></circle>
+<circle cx="622.6" cy="253.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.245E-03</title></circle>
+<circle cx="626.3" cy="254.3" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.161E-03</title></circle>
+<circle cx="628.9" cy="254.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.093E-03</title></circle>
+<circle cx="631.6" cy="255.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 1.020E-03</title></circle>
+<circle cx="636.0" cy="255.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 9.522E-04</title></circle>
+<circle cx="638.2" cy="256.4" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 9.006E-04</title></circle>
+<circle cx="640.5" cy="256.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 8.522E-04</title></circle>
+<circle cx="643.4" cy="257.3" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 8.008E-04</title></circle>
+<circle cx="647.4" cy="257.7" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.610E-04</title></circle>
+<circle cx="650.0" cy="258.1" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 7.275E-04</title></circle>
+<circle cx="652.7" cy="258.5" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / GradientEstimation-Escape / 6.867E-04</title></circle>
+<circle cx="656.6" cy="258.9" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.535E-04</title></circle>
+<circle cx="659.0" cy="259.3" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.242E-04</title></circle>
+<circle cx="661.6" cy="259.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 6.033E-04</title></circle>
+<circle cx="664.8" cy="259.8" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.848E-04</title></circle>
+<circle cx="667.2" cy="260.0" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.725E-04</title></circle>
+<circle cx="669.8" cy="260.2" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.572E-04</title></circle>
+<circle cx="672.4" cy="260.4" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.456E-04</title></circle>
+<circle cx="675.3" cy="260.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.369E-04</title></circle>
+<circle cx="679.0" cy="260.5" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / GradientEstimation-Escape / 5.329E-04</title></circle>
+<circle cx="681.7" cy="260.6" r="5" fill="#43A047" opacity="0.85"><title>Refiner / GradientEstimation-Escape / 5.307E-04</title></circle>
+<circle cx="684.6" cy="260.6" r="5" fill="#43A047" opacity="0.85"><title>Refiner / GradientEstimation-Escape / 5.304E-04</title></circle>
+<circle cx="871.8" cy="261.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 5.029E-04</title></circle>
+<circle cx="935.0" cy="261.5" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 4.741E-04</title></circle>
+<circle cx="966.7" cy="261.6" r="5" fill="#FB8C00" opacity="0.85"><title>Exploiter / Sniper / 4.694E-04</title></circle>
+<circle cx="975.4" cy="262.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 4.427E-04</title></circle>
+<circle cx="1046.6" cy="263.0" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 3.896E-04</title></circle>
+<circle cx="1048.1" cy="263.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 3.476E-04</title></circle>
+<circle cx="1049.5" cy="266.9" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 2.389E-04</title></circle>
+<circle cx="1050.8" cy="268.7" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 1.904E-04</title></circle>
+<circle cx="1052.1" cy="269.8" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 1.662E-04</title></circle>
+<circle cx="1055.8" cy="272.6" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 1.169E-04</title></circle>
+<circle cx="1057.6" cy="273.7" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 1.024E-04</title></circle>
+<circle cx="1058.4" cy="274.6" r="5" fill="#1E88E5" opacity="0.85"><title>Local Explorer / Sniper / 9.089E-05</title></circle>
+<circle cx="1060.0" cy="420.8" r="5" fill="#7E57C2" opacity="0.85"><title>Global Explorer / Sniper / 0.000E+00</title></circle>
+<circle cx="80" cy="486" r="5" fill="#7E57C2"/>
+<text x="89" y="490" font-family="Segoe UI, Arial" font-size="11">Global Explorer</text>
+<circle cx="215" cy="486" r="5" fill="#1E88E5"/>
+<text x="224" y="490" font-family="Segoe UI, Arial" font-size="11">Local Explorer</text>
+<circle cx="350" cy="486" r="5" fill="#FB8C00"/>
+<text x="359" y="490" font-family="Segoe UI, Arial" font-size="11">Exploiter</text>
+<circle cx="485" cy="486" r="5" fill="#43A047"/>
+<text x="494" y="490" font-family="Segoe UI, Arial" font-size="11">Refiner</text>
+<circle cx="620" cy="486" r="5" fill="#757575"/>
+<text x="629" y="490" font-family="Segoe UI, Arial" font-size="11">Polisher</text>
+</svg>

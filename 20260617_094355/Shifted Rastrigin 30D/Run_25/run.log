@@ -1,0 +1,7 @@
+=== Batch Run 25 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Shifted Rastrigin 30D
+Time: 10000ms
+Started: 09:48:09
+--- [Shifted Rastrigin 30D] Run 25 of 30 ---
+[Shifted Rastrigin 30D Run 25] Complete. Best=1.245346E-003, Solutions=278

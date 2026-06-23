@@ -1,0 +1,8 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Griewank 30D
+Time: 10000ms
+Started: 14:39:21
+--- [Shifted Griewank 30D] Run 30 of 30 ---
+[Shifted Griewank 30D Run 30] Complete. Best=0.000000E+000, Solutions=368
+===== Problem 7 of 10: Schwefel 2.22 30D =====

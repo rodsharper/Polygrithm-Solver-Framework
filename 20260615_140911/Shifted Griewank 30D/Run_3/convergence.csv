@@ -1,0 +1,14 @@
+TimeMs,BestQuality,Source,Role,DeltaPct
+8,661.409668743794,HOG8-ML03-H1-GPS-JADE-Specialist-Global Explorer,Global Explorer,100
+13,453.33900248968047,HOG8-ML03-H2-GPS-JADE-Specialist-Local Explorer,Local Explorer,31.458667159991656
+14,431.27822963430106,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Exploiter,Exploiter,4.86628609809093
+22,130.36062762277393,HOG8-ML06-H2-GPS-Spray-Specialist-Global Explorer,Global Explorer,69.77342729928377
+35,4.5169899951735815E-05,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.99996535004414
+37,1.5019837631968791E-05,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,66.74812729712146
+51,4.71589328920885E-07,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,96.86022352254238
+51,2.0190034732969764E-07,HOG8-ML00-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,57.187252775270295
+51,2.5725264252152158E-08,HOG8-ML02-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,87.25843487027612
+67,2.1541324279894525E-10,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,99.16263933894898
+67,1.0358236490759509E-10,HOG8-ML01-H2-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,51.91457889881305
+67,0,HOG8-ML00-H1-GPS-GradientEstimation-Escape-Specialist-Global Explorer,Global Explorer,100
+10000,0,Final,Final,0

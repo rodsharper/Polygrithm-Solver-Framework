@@ -1,0 +1,7 @@
+=== Batch Run 5 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Ackley 30D
+Time: 10000ms
+Started: 14:14:53
+--- [Shifted Ackley 30D] Run 5 of 30 ---
+[Shifted Ackley 30D Run 5] Complete. Best=0.000000E+000, Solutions=367

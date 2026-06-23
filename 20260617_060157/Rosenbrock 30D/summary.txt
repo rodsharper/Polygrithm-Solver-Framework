@@ -1,0 +1,68 @@
+=== Batch Run Summary ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Rosenbrock 30D
+Time: 10000ms
+Runs: 30
+
+--- Basic Stats ---
+Best:     0.000000E+000
+Worst:    1.502579E-003
+Mean:     1.166289E-003
+StdDev:   3.496429E-004
+
+--- Distribution ---
+Q1:       1.066789E-003
+Median:   1.260865E-003
+Q3:       1.361962E-003
+IQR:      2.951727E-004
+Min:      0.000000E+000
+Max:      1.502579E-003
+Range:    1.502579E-003
+
+--- Outliers (IQR rule) ---
+Fences:   [6.240304E-004, 1.804721E-003]
+Count:    2
+
+--- Confidence ---
+CI Lower: 1.033513E-003
+CI Upper: 1.299064E-003
+Margin:   1.327758E-004
+t-value:  2.0450
+
+--- Robustness ---
+SuccessRate:   6.7%
+Improvement%:  100.00%
+
+--- Sorted Run Results (ascending) ---
+  Run 1: 0.000000E+000  * OUTLIER
+  Run 2: 0.000000E+000  * OUTLIER
+  Run 3: 9.373036E-004
+  Run 4: 9.929783E-004
+  Run 5: 9.941287E-004
+  Run 6: 9.989070E-004
+  Run 7: 1.014861E-003
+  Run 8: 1.062658E-003
+  Run 9: 1.079183E-003
+  Run 10: 1.114099E-003
+  Run 11: 1.204391E-003
+  Run 12: 1.206158E-003
+  Run 13: 1.231965E-003
+  Run 14: 1.236438E-003
+  Run 15: 1.253977E-003
+  Run 16: 1.267753E-003
+  Run 17: 1.288160E-003
+  Run 18: 1.314879E-003
+  Run 19: 1.315833E-003
+  Run 20: 1.318425E-003
+  Run 21: 1.346920E-003
+  Run 22: 1.349215E-003
+  Run 23: 1.366211E-003
+  Run 24: 1.381128E-003
+  Run 25: 1.406691E-003
+  Run 26: 1.421000E-003
+  Run 27: 1.440199E-003
+  Run 28: 1.447198E-003
+  Run 29: 1.495416E-003
+  Run 30: 1.502579E-003
+
+Generated: 2026-06-17 06:32:16

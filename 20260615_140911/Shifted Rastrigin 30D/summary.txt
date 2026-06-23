@@ -1,0 +1,68 @@
+=== Batch Run Summary ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Rastrigin 30D
+Time: 10000ms
+Runs: 30
+
+--- Basic Stats ---
+Best:     0.000000E+000
+Worst:    2.175653E+001
+Mean:     1.156366E+000
+StdDev:   4.474115E+000
+
+--- Distribution ---
+Q1:       0.000000E+000
+Median:   0.000000E+000
+Q3:       0.000000E+000
+IQR:      0.000000E+000
+Min:      0.000000E+000
+Max:      2.175653E+001
+Range:    2.175653E+001
+
+--- Outliers (IQR rule) ---
+Fences:   [0.000000E+000, 0.000000E+000]
+Count:    2
+
+--- Confidence ---
+CI Lower: -5.426655E-001
+CI Upper: 2.855398E+000
+Margin:   1.699032E+000
+t-value:  2.0450
+
+--- Robustness ---
+SuccessRate:   93.3%
+Improvement%:  100.00%
+
+--- Sorted Run Results (ascending) ---
+  Run 1: 0.000000E+000
+  Run 2: 0.000000E+000
+  Run 3: 0.000000E+000
+  Run 4: 0.000000E+000
+  Run 5: 0.000000E+000
+  Run 6: 0.000000E+000
+  Run 7: 0.000000E+000
+  Run 8: 0.000000E+000
+  Run 9: 0.000000E+000
+  Run 10: 0.000000E+000
+  Run 11: 0.000000E+000
+  Run 12: 0.000000E+000
+  Run 13: 0.000000E+000
+  Run 14: 0.000000E+000
+  Run 15: 0.000000E+000
+  Run 16: 0.000000E+000
+  Run 17: 0.000000E+000
+  Run 18: 0.000000E+000
+  Run 19: 0.000000E+000
+  Run 20: 0.000000E+000
+  Run 21: 0.000000E+000
+  Run 22: 0.000000E+000
+  Run 23: 0.000000E+000
+  Run 24: 0.000000E+000
+  Run 25: 0.000000E+000
+  Run 26: 0.000000E+000
+  Run 27: 0.000000E+000
+  Run 28: 0.000000E+000
+  Run 29: 1.293446E+001  * OUTLIER
+  Run 30: 2.175653E+001  * OUTLIER
+
+Generated: 2026-06-15 14:59:44

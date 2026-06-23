@@ -1,0 +1,7 @@
+=== Batch Run 12 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Griewank 30D
+Time: 10000ms
+Started: 14:56:31
+--- [Griewank 30D] Run 12 of 30 ---
+[Griewank 30D Run 12] Complete. Best=0.000000E+000, Solutions=368

@@ -1,0 +1,7 @@
+=== Batch Run 4 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOn-Generalist
+Problem: Shifted Rosenbrock 30D
+Time: 10000ms
+Started: 14:19:47
+--- [Shifted Rosenbrock 30D] Run 4 of 30 ---
+[Shifted Rosenbrock 30D Run 4] Complete. Best=2.400782E-003, Solutions=240

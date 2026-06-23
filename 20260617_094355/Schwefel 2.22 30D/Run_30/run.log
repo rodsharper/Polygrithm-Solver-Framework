@@ -1,0 +1,8 @@
+=== Batch Run 30 of 30 ===
+Solver: L3-HardNdGreedyUiRun-OrthogonalGeneralist8-SharingOff-Generalist
+Problem: Schwefel 2.22 30D
+Time: 10000ms
+Started: 10:04:49
+--- [Schwefel 2.22 30D] Run 30 of 30 ---
+[Schwefel 2.22 30D Run 30] Complete. Best=9.900990E-003, Solutions=244
+===== Problem 5 of 6: Rosenbrock 30D =====
